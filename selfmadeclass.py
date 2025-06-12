@@ -1,5 +1,5 @@
 """
-Title: Classy (SelfMadeClass)
+Title: SelfMadeClass
 Author: Christopher Lee Crader
 
 This is a completely useless class designed to prove to me that "self"
